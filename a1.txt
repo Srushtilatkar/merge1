@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HELLO :) my name is roohi :)
+=======
+HELLO :)
+123
+>>>>>>> 1e9bba03f2963c5519968a66c45e1d8808694c1e
